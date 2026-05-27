@@ -5,7 +5,6 @@
 ![Python](https://img.shields.io/badge/python-3.8+-blue?style=flat-square&logo=python)
 ![Internship](https://img.shields.io/badge/internship-CodeAlpha-bf4b8a?style=flat-square)
 ![Domain](https://img.shields.io/badge/domain-cybersecurity-da3633?style=flat-square)
-![License](https://img.shields.io/badge/license-MIT-2ea043?style=flat-square)
 ![Engine](https://img.shields.io/badge/engine-regex--based-0e8a8a?style=flat-square)
 ![Output](https://img.shields.io/badge/output-vulnerability%20report-e36209?style=flat-square)
 ![Target](https://img.shields.io/badge/target-.py%20files-334155?style=flat-square)
